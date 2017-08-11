@@ -1,2 +1,3 @@
 # C0BR4FIR3
-the drinking game
+
+The name says it all
